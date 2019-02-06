@@ -1,0 +1,8 @@
+.alert{
+    font-size: 12px;
+}
+
+.alert--warning{
+    background: linear-gradient(to right bottom, rgba(255, 255, 0, .625), rgba(255, 255, 0, .325));
+    color: #000;
+}

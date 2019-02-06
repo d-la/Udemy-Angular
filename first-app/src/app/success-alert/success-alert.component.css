@@ -1,0 +1,14 @@
+.alert{
+    display: block;
+    width: 100%;
+    border-radius: 4px;
+    font-size: 12px;
+    padding: 1.5em;
+    margin: 1em 0;
+    text-align: left;
+}
+
+.alert--success{
+    background: linear-gradient(to right bottom, rgba(0, 255, 0, 0.425), rgba(0, 255, 0, .325));
+    color: #000;
+}
